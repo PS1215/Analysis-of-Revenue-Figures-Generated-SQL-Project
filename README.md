@@ -12,3 +12,5 @@ Let me know if you want any refinements! 😎
 ![image alt](https://github.com/PS1215/Analysis-of-Revenue-Figures-Generated-SQL-Project/blob/89351c619dce2f9d1d3984e0993fb59ee3398eed/Mat%20code.png)
 
 ![image alt](https://github.com/PS1215/Analysis-of-Revenue-Figures-Generated-SQL-Project/blob/276f6d58222f73d316d6afae945ed9fa9c288bee/listing%20code.png)
+
+![image alt](https://github.com/PS1215/Analysis-of-Revenue-Figures-Generated-SQL-Project/blob/a51d8b68d0501865e0aa169a78c443a208bd820b/Product%20sku.png)
